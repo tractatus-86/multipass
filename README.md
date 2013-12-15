@@ -6,6 +6,7 @@ My music collection is a mess. I have collected few terabytes of music over the 
 
 Description:
 Music Organzation will work in four stages:
+
 Pass 1: Fire
 A songa is md5 hashed when there is a hash collision the colliding song gets moved into the fire duplicates directory.
 
