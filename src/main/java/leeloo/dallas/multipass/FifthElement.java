@@ -15,8 +15,8 @@ public class FifthElement
 {
 	 static Logger log = LoggerFactory.getLogger(FifthElement.class);
 	 
-	public static final String startDirString = "C:\\Users\\Phobos\\Downloads\\The National Discography";
-	public static final String duplicateDir = "C:\\Duplicates";
+	public static final String startDirString = "C:\\Users\\Twinsun\\Desktop\\Ladytron";
+	public static final String duplicateDir = "F:\\Duplicates";
 	public static final String[] extensions = { "mp3" };
 	private static Collection<File> files;
 
